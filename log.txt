@@ -1,0 +1,7 @@
+Array
+(
+    [Temperature] => 600
+    [Humidity] => 56
+    [CO2] => 890ppm
+)
+192.168.1.135
